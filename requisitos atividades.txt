@@ -1,0 +1,45 @@
+Para cada exercício, crie um script PHP que realize a tarefa
+solicitada e exiba o resultado de forma clara e organizada.
+1.​ Média de Três Números: Problema: Crie um algoritmo que receba dois
+números, armazene-os em variáveis e calcule a média entre eles. Exiba o
+resultado.
+2.​ Criar uma página meus_dados.php com suas informações pessoais (nome,
+idade, cidade, hobby, curso).
+Exemplo: ​
+Nome: João da Silva
+Idade: 39 anos
+Cidade: Sinop - MT
+Curso: Sistemas de Informação
+3.​ Crie um script que armazene o nome de um produto, o preço e a quantidade.
+Calcule o total.
+4.​ Informações de um Produto (Array Associativo e Variáveis): Crie um
+array associativo chamado $produto que armazene as seguintes
+informações: nome (string), preco (float) e estoque (inteiro). Em seguida,
+utilize variáveis para armazenar um desconto de 10% e calcule o preço final
+do produto após o desconto. Exiba o nome do produto, o preço original e o
+preço com desconto.
+5.​ Lista de Compras (Array Indexado): Crie um array indexado chamado
+$listaDeCompras com 5 itens que você precisa comprar no supermercado
+(strings). Exiba cada item da lista utilizando um loop for.
+6.​ Notas de um Aluno (Arrays Indexado e Variável): Crie um array indexado
+chamado $notas com as notas de um aluno em 4 disciplinas (números
+decimais). Calcule a média dessas notas e armazene o resultado em uma
+variável chamada $media. Exiba as notas e a média do aluno.
+7.​ Nomes em um Array (Array Indexado e Variável): Crie um array indexado
+chamado $nomes contendo 7 nomes de pessoas. Escolha um índice
+aleatório dentro do array e armazene o nome correspondente em uma
+variável chamada $nomeSelecionado. Exiba todos os nomes do array e o
+nome selecionado aleatoriamente.
+8.​ Cadastro de Clientes (Array de Arrays Associativos): Crie um array
+indexado chamado $clientes. Cada elemento deste array será um array
+associativo contendo as informações de um cliente: nome (string) e email(string). Adicione pelo menos 3 clientes ao array. Percorra o array $clientes e
+exiba o nome e o email de cada cliente.
+9.​ Cores Primárias (Array Indexado e Variável): Crie um array indexado
+chamado $coresPrimarias com as três cores primárias (vermelho, azul e
+amarelo). Receba via código uma nova cor (string) em uma variável chamada
+$novaCor. Verifique se $novaCor existe no array $coresPrimarias. Exiba uma
+mensagem informando se a cor é primária ou não.
+10.​Detalhes de um Livro (Array Associativo): Crie um array associativo
+chamado $livro com as seguintes chaves: titulo (string), autor (string), ano
+(inteiro) e gênero (string). Exiba todas as informações do livro formatadas de
+forma legível.
